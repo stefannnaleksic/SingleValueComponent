@@ -1,0 +1,9 @@
+@import "../../../../../ui-core/src/assets/ui-core/css/colors.scss";
+@import "../../../../../ui-core/src/assets/ui-core/css/buttons.scss";
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
